@@ -1,2 +1,2 @@
 # TinDog-project
-https://aksingh47.github.io/TinDog-project/
+https://aksingh-codes.github.io/TinDog-project/
